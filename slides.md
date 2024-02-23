@@ -51,3 +51,16 @@ git checkout -b <branch_name>
 - Make your changes
 - Commit your changes on the branch
 - Push your commit
+
+---
+
+## Merge branch on main
+
+- Checkout to main
+```sh
+git checkout main
+```
+- Merge your branch on main
+```sh
+git merge <branch_name>
+```
