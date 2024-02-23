@@ -73,3 +73,12 @@ git merge <branch_name>
 ```sh
 git branch -d <branch_name>
 ```
+
+---
+
+## Pushing changes to remote
+
+- Push your changes using
+```sh
+git push origin <branch_name>
+```
