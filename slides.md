@@ -82,3 +82,11 @@ git branch -d <branch_name>
 ```sh
 git push origin <branch_name>
 ```
+
+---
+
+## Pulling changes from remote
+- Pull your changes using
+```sh
+git pull origin <branch_name>
+```
