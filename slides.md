@@ -170,3 +170,22 @@ This is a text
 ```
 This is a code block
 ```
+
+---
+
+## Extras
+
+- Write in **bold**
+```md
+**Hello World!**
+```
+
+- Write in _italic_
+```md
+__Hello World!__
+```
+
+- ~~Linethrough~~ your text
+```md
+~~Hello World!~~
+```
