@@ -72,4 +72,4 @@ git merge <branch_name>
 - Delete your branch
 ```sh
 git branch -d <branch_name>
-``
+```
