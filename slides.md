@@ -65,6 +65,8 @@ git checkout main
 git merge <branch_name>
 ```
 
+---
+
 ## Delete branch
 
 - Delete your branch
