@@ -1,4 +1,4 @@
-## How to initialise a new repository
+## <span style="color: #638889">How to initialise a new repository</span>
 
 - Initialize a new repository.
 ```sh
