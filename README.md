@@ -1,15 +1,27 @@
 # GitBootcamp
 
+
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
-## Running your presentation
+## Installation
 
-- Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
-- Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
+- Run `npm install` to install dependencies.
+- Run`npm start` to start the presentation.
 - Edit `index.tsx to add your presentation content.
 
-## Building you presentation
+## Building presentation
 
-To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
+To build the presentation for a production deploy, run `npm build`.
 
 The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
