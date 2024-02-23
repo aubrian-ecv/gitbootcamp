@@ -43,3 +43,11 @@ git commit -m "Initial commit"
 ```sh
 git checkout -b <branch_name>
 ```
+
+---
+
+## Work on a branch
+
+- Make your changes
+- Commit your changes on the branch
+- Push your commit
