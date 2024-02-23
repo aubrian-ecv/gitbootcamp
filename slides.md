@@ -34,3 +34,12 @@ git add <file> | git add .
 ```sh
 git commit -m "Initial commit"
 ```
+
+---
+
+## Create a new branch
+
+- Create a new branch using
+```sh
+git checkout -b <branch_name>
+```
