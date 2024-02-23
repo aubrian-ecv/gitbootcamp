@@ -115,3 +115,26 @@ This is a text
 1. List item 1
 2. List item 2
 ```
+
+--- 
+
+## Images
+
+- Remote url
+
+![Remote github logo.](https://logo.clearbit.com/github.com)
+```sh
+![Remote github logo.](https://logo.clearbit.com/github.com)
+```
+
+
+---
+
+## Images
+
+- Local url, images must be in public directory
+
+![Local github logo.](github.png)
+```sh
+![Local github logo.](github.png)
+```
