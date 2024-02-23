@@ -127,7 +127,6 @@ This is a text
 ![Remote github logo.](https://logo.clearbit.com/github.com)
 ```
 
-
 ---
 
 ## Images
@@ -137,4 +136,27 @@ This is a text
 ![Local github logo.](github.png)
 ```sh
 ![Local github logo.](github.png)
+```
+
+---
+
+## Headers
+
+- # Heading 1
+```md
+# Heading 1
+```
+- #### Heading 4
+```md
+#### Heading 4
+```
+
+---
+
+## Quotes
+
+> This is a quote
+
+```
+> This is a quote
 ```
