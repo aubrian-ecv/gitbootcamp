@@ -1,7 +1,6 @@
 # GitBootcamp
 
-
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/)
 
 ## Installation
 
