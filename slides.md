@@ -1,17 +1,36 @@
---- { "layout" : "center" }
-# GitBootcamp
+## How to initialise a new repository
 
----
-- Made with Spectacle
-
-<!-- slides.md -->
-
-# GitHub Bootcamp
+- Initialize a new repository.
+```sh
+git init
+```
 
 ---
 
-## This is my slide
+## How to review changes
+
+- Check the status of the repository using 
+```sh
+git status
+```
+- View the changes made to files using
+```sh
+git diff
+```
+- Review the commit history 
+```sh
+git log
+```
 
 ---
 
-## Happy Hacking
+## How to commit changes
+
+- Add files to the repository. 
+```sh
+git add <file> | git add .
+```
+- Commit the changes using 
+```sh
+git commit -m "Initial commit"
+```
