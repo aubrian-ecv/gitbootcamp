@@ -189,3 +189,14 @@ __Hello World!__
 ```md
 ~~Hello World!~~
 ```
+
+---
+
+## How to automate issue closing
+
+- Use keyword "close" with issue id in your commit message
+
+Example :
+```
+gcmsg "close #2"
+```
