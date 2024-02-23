@@ -160,3 +160,13 @@ This is a text
 ```
 > This is a quote
 ```
+
+---
+
+## Code
+
+- Wrap your code with ``` to format in code block 
+
+```
+This is a code block
+```
