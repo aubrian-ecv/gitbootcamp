@@ -64,3 +64,10 @@ git checkout main
 ```sh
 git merge <branch_name>
 ```
+
+## Delete branch
+
+- Delete your branch
+```sh
+git branch -d <branch_name>
+``
