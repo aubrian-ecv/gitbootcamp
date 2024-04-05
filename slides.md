@@ -236,3 +236,12 @@ or
 ```
 git commit --amend -m "Your new message"
 ```
+
+---
+
+## How to rebase
+
+- To rebase use
+```
+git rebase -i <earlier SHA>
+```
