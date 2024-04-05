@@ -200,3 +200,9 @@ Example :
 ```
 gcmsg "close #2"
 ```
+
+## How to apply commit
+
+```
+git cherry-pick YOURSHA1
+```
