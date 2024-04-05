@@ -203,6 +203,8 @@ gcmsg "close #2"
 
 ## How to apply commit
 
+- Use the cherry-pick command with the commit SHA1
+
 ```
 git cherry-pick YOURSHA1
 ```
