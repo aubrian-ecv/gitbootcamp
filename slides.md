@@ -245,3 +245,9 @@ git commit --amend -m "Your new message"
 ```
 git rebase -i <earlier SHA>
 ```
+
+---
+
+## Aubrian DUHAYON
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
