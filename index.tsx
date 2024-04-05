@@ -6,8 +6,8 @@ import mdContent from './slides.md';
 const theme = {
   colors: {
     primary: "#000",
-    secondary: "#638889",
-    tertiary: "#F9EFDB"
+    secondary: "#165486",
+    tertiary: "#ab8d5c"
   }
 }
 
