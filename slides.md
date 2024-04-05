@@ -201,6 +201,8 @@ Example :
 gcmsg "close #2"
 ```
 
+---
+
 ## How to apply commit
 
 - Use the cherry-pick command with the commit SHA1
@@ -208,3 +210,10 @@ gcmsg "close #2"
 ```
 git cherry-pick YOURSHA1
 ```
+
+---
+
+## How to use git fragments
+
+- To create a fragment use `git stash`
+- To retrieve a fragment after your work use `git stash pop`
