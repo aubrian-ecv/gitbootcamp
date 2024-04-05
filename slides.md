@@ -223,3 +223,16 @@ git stash
 ```
 git stash pop
 ```
+
+---
+
+## How to fix the last commit message
+
+- To fix the last commit message use
+```
+git commit --amend
+```
+or
+```
+git commit --amend -m "Your new message"
+```
